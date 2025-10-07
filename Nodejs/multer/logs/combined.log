@@ -1,0 +1,24 @@
+2025-09-16 16:23:44 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:23:44 [winston trying] [34mdebug[39m: MongoDB connection successful
+2025-09-16 16:24:01 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:24:21 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:24:21 [winston trying] [34mdebug[39m: MongoDB connection successful
+2025-09-16 16:24:26 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:25:24 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:26:05 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:26:12 [winston trying] [32minfo[39m: MongoDB connected
+2025-09-16 16:26:17 [winston trying] [32minfo[39m: ✅ File uploaded: %s (%d bytes)
+2025-09-16 16:26:39 [winston log] [32minfo[39m: MongoDB connected
+2025-09-16 16:26:41 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 16:29:11 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 16:29:13 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 16:29:16 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 16:29:19 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 16:29:26 [winston logger] [32minfo[39m: 💾 File metadata saved for: %s
+2025-09-16 16:29:26 [winston logger] [32minfo[39m: ✅ File uploaded: %s (%d bytes)
+2025-09-16 16:31:37 [winston logger] [32minfo[39m: 💾 File metadata saved for: %s
+2025-09-16 16:31:37 [winston logger] [32minfo[39m: ✅ File uploaded: %s (%d bytes)
+2025-09-16 21:18:21 [winston logger] [32minfo[39m: MongoDB connected
+2025-09-16 21:19:01 [winston logger] [32minfo[39m: 💾 File metadata saved for: %s
+2025-09-16 21:19:01 [winston logger] [32minfo[39m: ✅ File uploaded: %s (%d bytes)
+2025-09-16 21:31:58 [winston logger] [32minfo[39m: MongoDB connected

@@ -1,0 +1,871 @@
+2025-09-23 11:38:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:41:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:43:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:43:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:43:46 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:43:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:43:52 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:43:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:43:57 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:43:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:44:05 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:44:08 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:44:09 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:45:02 [winston logger] error: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:02 [winston logger] info: Server listening on port 5000
+2025-09-23 11:45:09 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:45:37 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:45:40 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:40 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:46:53 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:46:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:47:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:47:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:47:18 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:47:18 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:49:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:49:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:50:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:50:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:51:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:51:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:51:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:51:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:53:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:53:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:53:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:53:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:53:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:53:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:53:59 [winston logger] [31merror[39m: User login failed
+2025-09-23 11:54:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:54:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:54:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 11:54:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 11:54:37 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:14:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:14:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:15:00 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:15:00 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:15:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:15:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:15:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:15:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:15:16 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:17:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:17:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:17:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:17:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:17:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:17:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:17:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:17:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:17:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:17:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:22 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:22 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:18:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:18:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:44 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:45 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:45 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:55 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:55 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:19:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:19:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:18 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:18 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:22 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:22 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:41 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:41 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:55 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:55 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:20:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:20:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:21:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:21:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:21:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:21:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:21:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:21:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:21:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:21:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:21:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:21:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:22:21 [winston logger] [32minfo[39m: User created: alice@example.com
+2025-09-23 12:23:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:23:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:23:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:23:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:23:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:23:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:23:18 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:23:18 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:23:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:23:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:23:42 [winston logger] [32minfo[39m: User created: alice@example.com
+2025-09-23 12:24:07 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:25:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:25:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:25:16 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:25:16 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:25:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:25:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:25:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:25:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:25:33 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:26:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:26:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:26:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:26:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:26:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:26:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:26:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:26:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:27:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:27:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:27:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:27:44 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:27:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:27:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:28:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:28:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:28:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:28:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:28:16 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:28:16 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:28:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:28:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:16 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:16 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:45 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:45 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:32:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:32:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:01 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:01 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:45 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:45 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:33:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:33:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:39 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:39 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:34:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:34:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:01 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:01 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:48 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:48 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:35:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:35:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:12 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:12 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:36:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:36:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:25 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:25 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:41 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:41 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:44 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:37:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:37:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:39 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:39 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:38:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:38:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:22 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:22 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:25 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:25 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:44 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:55 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:55 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:39:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:39:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:40:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:40:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 12:41:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 12:41:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 13:27:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 13:27:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 13:41:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 13:41:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 13:41:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 13:41:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:03:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:03:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:04:48 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:04:48 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:04:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:04:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:04:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:04:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:04:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:04:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:05:00 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:05:00 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:05:19 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:05:19 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:05:20 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:05:20 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:05:22 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:05:22 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:05:25 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:05:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:05:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:06:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:06:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:06:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:06:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:06:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:06:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:06:43 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:06:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:06:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:07:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:07:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:07:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:07:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:07:18 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:07:18 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:07:22 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:07:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:07:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:07:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:07:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:09:40 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:09:40 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:09:54 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:12:00 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:12:00 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:12:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:12:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:13:18 [winston logger] [32minfo[39m: User created: 22amtics312@gmail.com
+2025-09-23 14:13:47 [winston logger] [31merror[39m: User login failed
+2025-09-23 14:15:51 [winston logger] [31merror[39m: User login failed
+2025-09-23 14:18:38 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:18:38 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:18:39 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:18:39 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:18:41 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:18:41 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:18:44 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:18:44 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:20:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:20:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:45 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:45 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:48 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:48 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 14:21:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 14:21:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 15:29:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 15:29:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 15:58:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 15:58:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:00:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:00:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:02:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:02:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:06:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:06:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:06:39 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:06:39 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:07:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:07:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:07:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:07:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:07:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:07:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:07:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:07:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:09:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:09:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:10:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:10:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:13:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:13:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:14:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:14:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:14:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:14:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:14:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:14:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:15:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:15:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:15:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:15:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:15:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:15:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:15:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:15:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:21:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:21:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:37:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:37:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:37:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:37:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:12 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:12 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:38:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:38:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:41:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:41:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:43:12 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:43:12 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:43:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:43:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:43:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:43:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:43:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:43:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:44:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:44:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:44:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:44:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:44:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:44:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:44:34 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:44:34 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:44:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:44:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:45:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:45:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:45:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:45:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:45:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:45:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:45:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:45:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:45:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:45:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:48:39 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:48:39 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:51:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:51:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:51:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:51:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:53:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:53:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:53:25 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:53:25 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:53:31 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:53:31 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:53:44 [winston logger] [31merror[39m:  failed to send  OTP
+2025-09-23 16:54:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:54:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:55:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:55:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:55:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:55:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:57:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:57:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 16:58:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 16:58:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:03:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:03:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:04:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:04:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:05:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:05:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:05:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:05:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:07:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:07:50 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:07:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:07:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:25 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:25 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:19:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:19:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:20:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:20:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:20:12 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:20:12 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:20:39 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:27:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:18 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:18 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:20 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:20 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:29 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:27:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:27:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:28:13 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:28:53 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:29:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:29:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:29:07 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:29:07 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:29:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:29:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:29:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:29:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:29:54 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:30:33 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:30:33 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:30:37 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:30:37 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:31:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:31:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:31:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:31:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:32:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:32:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:38:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:38:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:39:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:39:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:39:10 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:39:10 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:39:20 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:39:20 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:39:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:39:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 17:39:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 17:39:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:00:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:00:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:00:47 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:00:47 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:00:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:00:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:00:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:00:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:01:01 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:01:01 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:01:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:01:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:01:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:01:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:11:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:11:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:34:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:34:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:34:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:34:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:35:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:35:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:36:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:36:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:37:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:37:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:42:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:42:53 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:43:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:43:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:41:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:41:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:44:59 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:44:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:45 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:45 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:56 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:56 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:47:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:47:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:01 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:01 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:12 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:12 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:20 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:20 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:22 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:22 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:24 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:24 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:40 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:40 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:48:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:48:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:49:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:49:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:49:40 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:49:40 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:14 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:16 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:16 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:51 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:51 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:54 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:50:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:50:59 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:09 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:09 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:36 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:36 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:51:58 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:51:58 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:52:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:52:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 13:52:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 13:52:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 14:00:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 14:00:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 14:05:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 14:05:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 14:19:05 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 14:19:05 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 14:26:04 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 14:26:04 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:49 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:49 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:52 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:52 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:53 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:54 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:05:57 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:05:57 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:02 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:02 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:03 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:03 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:17 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:17 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:21 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:21 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:23 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:23 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:26 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:26 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:28 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:30 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:30 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:06:32 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:06:32 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-01 17:08:29 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-01 17:08:29 [winston logger] [32minfo[39m: MongoDB connected: localhost

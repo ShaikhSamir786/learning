@@ -1,0 +1,315 @@
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: 'info',
+  timestamp: '2025-09-17T10:45:07.653Z'
+}
+{
+  message: 'Got value "john_doe" for key "username"',
+  level: 'info',
+  timestamp: '2025-09-17T10:45:07.655Z'
+}
+{
+  message: 'No value found for key "username" (list empty)',
+  level: 'warn',
+  timestamp: '2025-09-17T10:45:07.656Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: 'info',
+  timestamp: '2025-09-17T10:45:07.657Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: 'info',
+  timestamp: '2025-09-17T10:46:01.314Z'
+}
+{
+  message: 'Got value "john_doe" for key "username"',
+  level: 'info',
+  timestamp: '2025-09-17T10:46:01.318Z'
+}
+{
+  message: 'No value found for key "username" (list empty)',
+  level: 'warn',
+  timestamp: '2025-09-17T10:46:01.319Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: 'info',
+  timestamp: '2025-09-17T10:46:01.320Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:46:12.619Z'
+}
+{
+  message: 'Got value "john_doe" for key "username"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:46:12.622Z'
+}
+{
+  message: 'No value found for key "username" (list empty)',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2025-09-17T10:46:12.624Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:46:12.624Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:09.785Z'
+}
+{
+  message: 'Unexpected error: getfunc is not defined',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:47:09.788Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:09.789Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:12.979Z'
+}
+{
+  message: 'Unexpected error: getfunc is not defined',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:47:12.981Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:12.981Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:14.208Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:47:14.211Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:06.603Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:06.605Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:08.539Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:08.541Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:14.278Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:48:14.280Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:49:17.627Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:49:17.629Z'
+}
+{
+  message: 'Set key "username" with value "john_doe"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:07.483Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:07.486Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:09.715Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:09.726Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:09.727Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:20.512Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:20.520Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:20.520Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:25.821Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:25.829Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:25.829Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:28.308Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:28.316Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:28.316Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:32.119Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:32.130Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:32.130Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:34.724Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:34.731Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:34.732Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:37.003Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:37.010Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:37.010Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:50.813Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:50.820Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:50.821Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:53.676Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:51:53.684Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:51:53.685Z'
+}
+{
+  message: 'Failed to set key "username": client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:52:11.575Z'
+}
+{
+  message: 'Unexpected error: client.lpush(...).llen is not a function',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2025-09-17T10:52:11.582Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:52:11.583Z'
+}
+{
+  message: 'Set key "username" with value "john_doe length [object Promise]"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:52:28.349Z'
+}
+{
+  message: 'Set key "username" with value "john_doe length"',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:52:42.012Z'
+}
+{
+  message: 'Redis connection closed.',
+  level: '\x1B[32minfo\x1B[39m',
+  timestamp: '2025-09-17T10:52:42.014Z'
+}

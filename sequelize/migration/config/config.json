@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1432",
+    "database": "migrationdemo",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "migrationStoragePath": "sequelizeMeta.json"
+  }
+}
+
+
