@@ -1,15 +1,15 @@
+const {gql} =require("graphql-tag")
 
-const {gql} = require("graphql-tag")
 
+const EventType =gql`
+type Event {
+    id: ID!
+    title: String!
+    description: String
+    date: DateTime!
+    location: String!
+    createdBy: User!
+    invitedEmails: [String!]!
+  }`;
 
-const userTypes = gql`
-type User {
-  id: ID!
-  firstName: String!
-  lastName: String!
-  email: String!
-  verified: Boolean!
-  isActive: Boolean!
-}`;
-
-module.exports = userTypes
+  module.exports = {EventType}

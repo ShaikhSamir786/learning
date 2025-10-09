@@ -1,15 +1,20 @@
 // src/graphql/createApolloServer.ts
-import { ApolloServer } from '@apollo/server';
-import { makeExecutableSchema } from '@graphql-tools/schema';
-import { typeDefs, resolvers } from './index';
+const { ApolloServer } = require("@apollo/server");
+const { makeExecutableSchema } = require("@graphql-tools/schema");
+const { typeDefs, resolvers } = require("./index");
 
-export const buildSchema = () => {
+const buildSchema = () => {
   return makeExecutableSchema({
     typeDefs,
     resolvers,
   });
 };
 
-export const createApolloServer = (schema) => {
+const createApolloServer = (schema) => {
   return new ApolloServer({ schema });
+};
+
+module.exports = {
+  buildSchema,
+  createApolloServer,
 };

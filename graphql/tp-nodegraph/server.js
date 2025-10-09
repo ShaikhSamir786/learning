@@ -4,6 +4,7 @@ const PORT = process.env.PORT || 5000;
 const logger = require("./configs/logger");
 const {sequelize} = require("./configs/sequelize-postgre")
 const {initModels} = require("./models/index-model")
+const bodyParser = require('body-parser')
 const rateLimit = require("express-rate-limit");
 const { buildSchema , createApolloServer} = require("./graphql/apollo-server")
 const { expressMiddleware } =require("@as-integrations/express5")
@@ -30,15 +31,27 @@ app.use(limiter);
 
 const startServer = async () => {
   try {
-    console.log("🟡 Connecting to the database...");
-    await dbConnect();
-
+  
+    // 1 
     console.log("🟡 Syncing database models...");
     await initModels(sequelize);
     console.log("✅ User model synced successfully.");
 
-    console.log("🟡 Setting up GraphQL rate limiter...");
+    
 
+
+
+
+
+
+
+
+
+
+
+
+
+    
     // 1️⃣ FIX 2: Call rateLimitDirective() with options to get the destructurable object.
      const { rateLimitDirectiveTransformer } =
       rateLimitDirective({
@@ -75,6 +88,7 @@ const startServer = async () => {
     app.listen(PORT, () => {
       console.log(`🚀 Server is running at: http://localhost:${PORT}/graphql`);
     });
+    
   } catch (err) {
     console.error("❌ Error starting the server:", err);
     process.exit(1);

@@ -1,11 +1,22 @@
-import { userTypeDefs, userResolversMap } from '../graphql/users/index';
+const {userResolverMap,userTypedefMap} = require("./users/index")
+const {EventresolverMap , EventtypedefMAp} = require("./events/index")
+const { DateTimeResolver, DateTimeTypeDefinition } = require("graphql-scalars");
 
-export const typeDefs = [
-  
-  ...userTypeDefs,
+
+ const typeDefs = [
+  DateTimeTypeDefinition,
+  ...userTypedefMap,
+  ...EventtypedefMAp
 ];
 
-export const resolvers = {
-  ...userResolversMap,
+const resolvers = {
+  DateTime:DateTimeResolver,
+  ...userResolverMap,
+  ...EventresolverMap
 
 };
+
+module.exports ={
+  typeDefs , 
+  resolvers
+}
