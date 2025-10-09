@@ -1,0 +1,54 @@
+2025-09-23 11:43:46 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:43:52 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:43:57 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:05 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:08 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:44:09 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:02 [winston logger] error: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:09 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:37 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:45:40 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:46:53 [winston logger] [31merror[39m: MongoDB connection error: Cannot read properties of undefined (reading 'env')
+2025-09-23 11:53:59 [winston logger] [31merror[39m: User login failed
+2025-09-23 11:54:37 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:15:16 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:24:07 [winston logger] [31merror[39m: User login failed
+2025-09-23 12:25:33 [winston logger] [31merror[39m: User login failed
+2025-09-23 14:05:25 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:06:43 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:07:22 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:09:54 [winston logger] [31merror[39m: User registration failed
+2025-09-23 14:13:47 [winston logger] [31merror[39m: User login failed
+2025-09-23 14:15:51 [winston logger] [31merror[39m: User login failed
+2025-09-23 16:53:44 [winston logger] [31merror[39m:  failed to send  OTP
+2025-09-23 17:20:39 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:28:13 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:28:53 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 17:29:54 [winston logger] [31merror[39m: Failed to reset password The string type does not allow arguments
+2025-09-23 18:01:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:01:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:01:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:01:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:11:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:11:35 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:06 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:06 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:11 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:11 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:13 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:13 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:12:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:12:15 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:34:42 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:34:42 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:34:43 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:34:43 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:35:27 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:35:27 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:36:46 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:36:46 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-09-23 18:37:08 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-09-23 18:37:08 [winston logger] [32minfo[39m: MongoDB connected: localhost
+2025-10-08 11:29:29 [winston logger] [31merror[39m: Event creation failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 12:08:06 [winston logger] [31merror[39m: Event listing failed: Cannot read properties of undefined (reading '_id')
+2025-10-08 12:09:18 [winston logger] [31merror[39m: Event listing failed: Cannot read properties of undefined (reading 'email')
