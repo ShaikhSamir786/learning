@@ -1,13 +1,4 @@
 
----
-
-````markdown
-
-* **Redis CLI** → `localhost:6379`
-* **RedisInsight UI** → [http://localhost:8001](http://localhost:8001)
-
----
-
 ## 📋 Command Summary
 
 | Purpose                    | Command                                                                               | Description                                                          |
@@ -45,3 +36,5 @@ To stop and remove the container:
 docker stop redis-stack
 docker rm redis-stack
 ```
+
+
